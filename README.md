@@ -23,6 +23,7 @@ python code.py
 This script requires the following dependencies:
 * `csv`
 * `json`
+* `collections` (`defaultdict`)
 * `datetime`
 
 ## Support 
